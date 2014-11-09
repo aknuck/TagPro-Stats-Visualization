@@ -13,5 +13,15 @@ This program takes the player statistics, which are normally just shown as a ser
 Usage
 ======
 Find the page on tagpro-stats.com for the player and look at the url for the user id:
-![ScreenShot](https://i.imgur.com/ONpeIDy.png)
-In the example above the id would be 26428
+![ScreenShot](https://i.imgur.com/NqVslKy.png)
+
+In the example above the id would be 22123
+Then use that number to generate the statistics:
+![ScreenShot](https://i.imgur.com/i6oQSMw.png)
+
+The image of the Visualization can then be saved with or without the sidebar
+Players can also be compared when both fields are filled:
+![ScreenShot](https://i.imgur.com/GA6H1GU.png)
+
+
+NOTE: There have been changes to tagpro-stats.com, so not everything works as well as it used to and the "games played" and "win percentage" stats on the sidebar no longer function. I'll be fixing it soon.
