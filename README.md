@@ -4,7 +4,7 @@ Created March 2014
 
 Requires PyGame
 
-This is created for use with player stats from the web game TagPro (www.tagpro.gg), a 2D capture the flag game. When moving in the game, a player must accelerate and decelerate. There is a lot of skill in properly "juking", or maneuvering around other players to get to the flag and get away with it, using various environment elements to assist. While carrying the flag a player can be tagged, which reults in them going back to their flag and waiting a few seconds to respawn.
+This is created for use with player stats from the web game TagPro (www.tagpro.gg), a 2D capture the flag game. When moving in the game, a player must accelerate and decelerate in any direction you want to move. There is a lot of skill in properly "juking", or maneuvering around other players, to get to the flag and get away with it, while using various environment elements to assist you. While carrying the flag a player can be tagged, which reults in them going back to their flag and waiting a few seconds to respawn.
 
 Statistics for tagpro players are shown on www.tagpro-stats.com, with statistics in categories such as captures per grab, number of times returning the flag, number of flags grabbed, etc.
 
