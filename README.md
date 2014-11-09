@@ -8,7 +8,7 @@ This is created for use with player stats from the web game TagPro (www.tagpro.g
 
 Statistics for tagpro players are shown on www.tagpro-stats.com, with statistics in categories such as captures per grab, number of times returning the flag, number of flags grabbed, etc.
 
-This program takes the player statistics, which are normally just shown as a series of numbers, and displays them in a visualization to make it easier to judge the skill of a player. Statistics are also organized by offensive and defensive stats, so it is easier to see if the player is more of an offensive or defensive player. It also allows for comparison of two players by overlaying their visualizations. The statistics are based on monthly stats, and a larger area on the visualization means that the player is more highly ranked.
+This program takes the player statistics, which are normally just shown as a series of numbers, and displays them in a visualization to make it easier to judge the skill of a player. Statistics are also organized by offensive and defensive stats on the visualization with offensive stats in the upper right, and defensive stats in the lower left, so it is easier to see if the player is more of an offensive or defensive player. It also allows for comparison of two players by overlaying their visualizations. The statistics are based on monthly stats, and a larger area on the visualization means that the player is more highly ranked.
 
 Usage
 ======
